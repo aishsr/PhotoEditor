@@ -1,3 +1,7 @@
 # OpenCVFilter
 
-Chnage the Hue, Saturation, Brightness and Contrast of input image 
+Change Hue, Saturation, Brightness and Contrast of input image. This program primarily uses the OpenCV library.
+
+# Run
+
+`python filter.py`
